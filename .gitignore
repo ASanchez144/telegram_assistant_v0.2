@@ -1,0 +1,4 @@
+telegram_openai_assistant.egg-info
+.env
+venv
+__pycache__
